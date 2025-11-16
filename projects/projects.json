@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dự án Honda",
+    "desc": "Một trang web tĩnh giới thiệu về xe Honda, được xây dựng bằng HTML, CSS và JavaScript.",
+    "image": "xe-2-hover",
+    "category": "web",
+    "links": {
+      "view": "https://leduong12a.github.io/DuAnHonDa/",
+      "code": "https://github.com/Leduong12a/DuAnHonDa"
+    }
+  },
+  {
+    "name": "Dự án Todolist",
+    "desc": "Một ứng dụng Todolist đơn giản giúp quản lý công việc hàng ngày, được xây dựng bằng HTML, CSS và JavaScript.",
+    "image": "todolist",
+    "category": "web",
+    "links": {
+      "view": "https://leduong12a.github.io/TodoList/",
+      "code": "https://github.com/Leduong12a/TodoList"
+    }
+  },
+  {
+    "name": "Dự án Bake",
+    "desc": "Một trang web tĩnh về chủ đề làm bánh (bakery), được xây dựng bằng HTML, CSS và JavaScript.",
+    "image": "Bake",
+    "category": "web",
+    "links": {
+      "view": "https://leduong12a.github.io/Bake/",
+      "code": "https://github.com/Leduong12a/Bake"
+    }
+  }
+]
